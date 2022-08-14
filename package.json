@@ -1,0 +1,19 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "nodejs rest api boilerplate build with typescript",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmmmvr/node-typescript-boilerplate.git"
+  },
+  "author": "ammar m-bakheit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmmmvr/node-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vmmmvr/node-typescript-boilerplate#readme"
+}
